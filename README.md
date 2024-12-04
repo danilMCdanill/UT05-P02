@@ -1,4 +1,5 @@
-# UT05-P02
-Trabajando en la rama feature1.
+<<<<<<< HEAD
 Actualizando desde la rama principal.
-UT05-P02
+=======
+Trabajando en la rama feature1.
+>>>>>>> feature1
